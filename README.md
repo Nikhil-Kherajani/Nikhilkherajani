@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nikhilkherajani
-- 👀 I’m interested in new tch
+- 👀 I’m interested in new tech
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
